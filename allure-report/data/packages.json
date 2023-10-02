@@ -1,0 +1,95 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "automationexercise.tests",
+    "children" : [ {
+      "name" : "HomeTest",
+      "children" : [ {
+        "name" : "localizarAgenciaPorCepComSucesso",
+        "uid" : "87988c37272328bd",
+        "parentUid" : "6392f3d95299441fda2fc738e08b63cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932953961,
+          "stop" : 1695932958111,
+          "duration" : 4150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "localizarAgenciaPorCepInvalidoSemSucesso",
+        "uid" : "4260e26444ac187e",
+        "parentUid" : "6392f3d95299441fda2fc738e08b63cd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1695932962506,
+          "stop" : 1695932965859,
+          "duration" : 3353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "localizarAgenciaPorCidadeComSucesso",
+        "uid" : "a66a5de533a985f7",
+        "parentUid" : "6392f3d95299441fda2fc738e08b63cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932970034,
+          "stop" : 1695932973855,
+          "duration" : 3821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "localizarAgenciaPorGeolocalizacaoComSucesso",
+        "uid" : "3344dd06c2b715b7",
+        "parentUid" : "6392f3d95299441fda2fc738e08b63cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932977945,
+          "stop" : 1695932982124,
+          "duration" : 4179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "navegarAtePaginaLocalizarAgenciaComSucesso",
+        "uid" : "dafb85d7ff892bf3",
+        "parentUid" : "6392f3d95299441fda2fc738e08b63cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932986465,
+          "stop" : 1695932990257,
+          "duration" : 3792
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6392f3d95299441fda2fc738e08b63cd"
+    }, {
+      "name" : "OuvidoriaTest",
+      "children" : [ {
+        "name" : "abrirMenuComSucesso",
+        "uid" : "7a2fe6bd5ce25c9d",
+        "parentUid" : "97f550f79326039b2ffba145f9d1031d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932994405,
+          "stop" : 1695933008816,
+          "duration" : 14411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "97f550f79326039b2ffba145f9d1031d"
+    } ],
+    "uid" : "automationexercise.tests"
+  } ]
+}

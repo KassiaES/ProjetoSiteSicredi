@@ -1,0 +1,105 @@
+{
+  "uid" : "87988c37272328bd",
+  "name" : "localizarAgenciaPorCepComSucesso",
+  "fullName" : "automationexercise.tests.HomeTest.localizarAgenciaPorCepComSucesso",
+  "historyId" : "4819eb521952ff40adf70ead306846e6",
+  "time" : {
+    "start" : 1695932953961,
+    "stop" : 1695932958111,
+    "duration" : 4150
+  },
+  "description" : "Validar navegar pesquisar agência por CEP válido",
+  "descriptionHtml" : "<p>Validar navegar pesquisar agência por CEP válido</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "abrirNavegador",
+    "time" : {
+      "start" : 1695932949245,
+      "stop" : 1695932953824,
+      "duration" : 4579
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "fecharNavegador",
+    "time" : {
+      "start" : 1695932958120,
+      "stop" : 1695932958397,
+      "duration" : 277
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "automationexercise.tests.HomeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "automationexercise.tests.HomeTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "localizarAgenciaPorCepComSucesso"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "ProjetoSiteSicredi"
+  }, {
+    "name" : "subSuite",
+    "value" : "automationexercise.tests.HomeTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-68FIEUE"
+  }, {
+    "name" : "thread",
+    "value" : "17856@DESKTOP-68FIEUE.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Localizar Agência"
+  }, {
+    "name" : "epic",
+    "value" : "Site Sicredi"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87988c37272328bd.json",
+  "parameterValues" : [ ]
+}

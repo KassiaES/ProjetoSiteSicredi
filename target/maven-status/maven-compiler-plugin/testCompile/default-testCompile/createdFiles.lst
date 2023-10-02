@@ -1,0 +1,6 @@
+automationexercise\tests\BaseTest.class
+automationexercise\page\HomePage.class
+automationexercise\page\OuvidoriaPage.class
+automationexercise\tests\HomeTest.class
+automationexercise\page\BasePage.class
+automationexercise\tests\OuvidoriaTest.class

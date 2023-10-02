@@ -1,0 +1,95 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Site Sicredi",
+    "children" : [ {
+      "name" : "Localizar Agência",
+      "children" : [ {
+        "name" : "localizarAgenciaPorCepComSucesso",
+        "uid" : "87988c37272328bd",
+        "parentUid" : "8847c16b798f004fc62ad5a17d4eb75d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932953961,
+          "stop" : 1695932958111,
+          "duration" : 4150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "localizarAgenciaPorCepInvalidoSemSucesso",
+        "uid" : "4260e26444ac187e",
+        "parentUid" : "8847c16b798f004fc62ad5a17d4eb75d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1695932962506,
+          "stop" : 1695932965859,
+          "duration" : 3353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "localizarAgenciaPorCidadeComSucesso",
+        "uid" : "a66a5de533a985f7",
+        "parentUid" : "8847c16b798f004fc62ad5a17d4eb75d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932970034,
+          "stop" : 1695932973855,
+          "duration" : 3821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "localizarAgenciaPorGeolocalizacaoComSucesso",
+        "uid" : "3344dd06c2b715b7",
+        "parentUid" : "8847c16b798f004fc62ad5a17d4eb75d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932977945,
+          "stop" : 1695932982124,
+          "duration" : 4179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "navegarAtePaginaLocalizarAgenciaComSucesso",
+        "uid" : "dafb85d7ff892bf3",
+        "parentUid" : "8847c16b798f004fc62ad5a17d4eb75d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932986465,
+          "stop" : 1695932990257,
+          "duration" : 3792
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8847c16b798f004fc62ad5a17d4eb75d"
+    }, {
+      "name" : "Ouvidoria",
+      "children" : [ {
+        "name" : "abrirMenuComSucesso",
+        "uid" : "7a2fe6bd5ce25c9d",
+        "parentUid" : "a4b3e834b3923edc66cebf0e43f047f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695932994405,
+          "stop" : 1695933008816,
+          "duration" : 14411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a4b3e834b3923edc66cebf0e43f047f1"
+    } ],
+    "uid" : "abfdcf9cfdf4c321ce621014e8318d9e"
+  } ]
+}

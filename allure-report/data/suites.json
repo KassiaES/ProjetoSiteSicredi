@@ -1,0 +1,99 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "ProjetoSiteSicredi",
+      "children" : [ {
+        "name" : "automationexercise.tests.HomeTest",
+        "children" : [ {
+          "name" : "localizarAgenciaPorCepComSucesso",
+          "uid" : "87988c37272328bd",
+          "parentUid" : "3337e944c78d6f0ea5eedebddf5b38e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695932953961,
+            "stop" : 1695932958111,
+            "duration" : 4150
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "localizarAgenciaPorCepInvalidoSemSucesso",
+          "uid" : "4260e26444ac187e",
+          "parentUid" : "3337e944c78d6f0ea5eedebddf5b38e7",
+          "status" : "failed",
+          "time" : {
+            "start" : 1695932962506,
+            "stop" : 1695932965859,
+            "duration" : 3353
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "localizarAgenciaPorCidadeComSucesso",
+          "uid" : "a66a5de533a985f7",
+          "parentUid" : "3337e944c78d6f0ea5eedebddf5b38e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695932970034,
+            "stop" : 1695932973855,
+            "duration" : 3821
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "localizarAgenciaPorGeolocalizacaoComSucesso",
+          "uid" : "3344dd06c2b715b7",
+          "parentUid" : "3337e944c78d6f0ea5eedebddf5b38e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695932977945,
+            "stop" : 1695932982124,
+            "duration" : 4179
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "navegarAtePaginaLocalizarAgenciaComSucesso",
+          "uid" : "dafb85d7ff892bf3",
+          "parentUid" : "3337e944c78d6f0ea5eedebddf5b38e7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695932986465,
+            "stop" : 1695932990257,
+            "duration" : 3792
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3337e944c78d6f0ea5eedebddf5b38e7"
+      }, {
+        "name" : "automationexercise.tests.OuvidoriaTest",
+        "children" : [ {
+          "name" : "abrirMenuComSucesso",
+          "uid" : "7a2fe6bd5ce25c9d",
+          "parentUid" : "ef84b5df5b240542ed52c9dca4c2c03e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1695932994405,
+            "stop" : 1695933008816,
+            "duration" : 14411
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ef84b5df5b240542ed52c9dca4c2c03e"
+      } ],
+      "uid" : "a2f5d6aeb890192c3eb4f3a54dc9b617"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

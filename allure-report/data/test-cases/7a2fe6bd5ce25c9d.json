@@ -1,0 +1,105 @@
+{
+  "uid" : "7a2fe6bd5ce25c9d",
+  "name" : "abrirMenuComSucesso",
+  "fullName" : "automationexercise.tests.OuvidoriaTest.abrirMenuComSucesso",
+  "historyId" : "5bcdeeef2d223b538c98e1237dc7d495",
+  "time" : {
+    "start" : 1695932994405,
+    "stop" : 1695933008816,
+    "duration" : 14411
+  },
+  "description" : "Validar abrir o menu",
+  "descriptionHtml" : "<p>Validar abrir o menu</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "abrirNavegador",
+    "time" : {
+      "start" : 1695932990498,
+      "stop" : 1695932994402,
+      "duration" : 3904
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "fecharNavegador",
+    "time" : {
+      "start" : 1695933008818,
+      "stop" : 1695933009089,
+      "duration" : 271
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "automationexercise.tests.OuvidoriaTest"
+  }, {
+    "name" : "testClass",
+    "value" : "automationexercise.tests.OuvidoriaTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "abrirMenuComSucesso"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "ProjetoSiteSicredi"
+  }, {
+    "name" : "subSuite",
+    "value" : "automationexercise.tests.OuvidoriaTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-68FIEUE"
+  }, {
+    "name" : "thread",
+    "value" : "17856@DESKTOP-68FIEUE.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Ouvidoria"
+  }, {
+    "name" : "epic",
+    "value" : "Site Sicredi"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a2fe6bd5ce25c9d.json",
+  "parameterValues" : [ ]
+}
